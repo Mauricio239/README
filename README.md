@@ -1,10 +1,10 @@
-# README
+
 > [!NOTE]
-> > ARCHIVO README.MD
+>## README
 
  
-> [!WARNING]
-# Requerimientos de Software: </br> _Roles del Administrador de la App_
+> [!IMPORTANT]
+>## Requerimientos de Software: </br> _Roles del Administrador de la App_
 
 :+1: <font color="green"> Descripción General </font>
 <font color='red'>rojo</font>
